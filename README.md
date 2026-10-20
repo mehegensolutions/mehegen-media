@@ -18,3 +18,4 @@ The folder date is the publish date. Only finished, public-ready files go here: 
 | 2026-10-20 7:30 PM | [Case File #001: It Looked Perfect](2026/10/2026-10-20_case-file-001) | IG + FB Reel (16:9), YouTube Short | Published |
 | 2026-10-21 7:00 PM | [Launch checklist carousel: 5 ways AI apps break on launch](2026/10/2026-10-21_launch-checklist-carousel) | IG + FB carousel, YouTube Short | Scheduled |
 | 2026-10-22 7:00 PM | [Case File #002: AI Chatbot Fails](2026/10/2026-10-22_case-file-002) | IG + FB Reel, YouTube Short | Scheduled |
+| 2026-10-24 7:00 PM | [Trust carousel: The human behind the Case Files](2026/10/2026-10-24_trust-carousel) | IG + FB carousel, YouTube Short | Scheduled |
