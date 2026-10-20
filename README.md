@@ -2,6 +2,9 @@
 
 Finished media for MeheGen Solutions social posts (Instagram, Facebook, YouTube), scheduled through Metricool.
 
+## Link page
+`index.html` is the MeheGen link-in-bio page (Book a call, website, Workflow Studio waitlist, Case Files), served by GitHub Pages at https://mehegensolutions.github.io/mehegen-media/
+
 ## Structure
 ```
 YYYY/MM/YYYY-MM-DD_post-name/
