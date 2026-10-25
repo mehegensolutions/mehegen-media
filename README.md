@@ -22,3 +22,4 @@ The folder date is the publish date. Only finished, public-ready files go here: 
 | 2026-10-21 7:00 PM | [Launch checklist carousel: 5 ways AI apps break on launch](2026/10/2026-10-21_launch-checklist-carousel) | IG + FB carousel, YouTube Short | Scheduled |
 | 2026-10-22 7:00 PM | [Case File #002: AI Chatbot Fails](2026/10/2026-10-22_case-file-002) | IG + FB Reel, YouTube Short | Scheduled |
 | 2026-10-24 7:00 PM | [Trust carousel: The human behind the Case Files](2026/10/2026-10-24_trust-carousel) | IG + FB carousel, YouTube Short | Scheduled |
+| 2026-10-27 7:00 PM | [Launch board carousel: Your launch is delayed (Launch-Readiness Audit)](2026/10/2026-10-27_launch-board-carousel) | IG + FB carousel, YouTube Short | Scheduled |
