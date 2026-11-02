@@ -26,3 +26,4 @@ The folder date is the publish date. Only finished, public-ready files go here: 
 | 2026-10-28 7:00 PM | [The Thank-You Issue N° 04: a founder paid more than we agreed](2026/10/2026-10-28_thank-you-issue) | IG Reel, FB Reel, YouTube Short | Scheduled |
 | 2026-10-31 7:00 PM | [Workflow Studio: Collection 01, The AI Content Engine](2026/10/2026-10-31_studio-collection-01) | IG + FB carousel, YouTube Short | Scheduled |
 | 2026-11-03 7:00 PM | [My AI agent made this post (Content Assembly Line)](2026/11/2026-11-03_ai-agent-made-this-post) | IG Reel, FB Reel, YouTube Short | Scheduled |
+| 2026-11-04 7:00 PM | [Your app works. That's the problem. (Vibe-coded vs production, video carousel)](2026/11/2026-11-04_vibe-vs-production) | IG + FB video carousel, YouTube Short | Scheduled |
